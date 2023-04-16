@@ -1,0 +1,30 @@
+body, a {
+    background-color: whitesmoke;
+    color: black;
+}
+
+h1, h2, h3 {
+    font-family: fantasy, sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+}
+
+h2, h3 {
+    font-size: 32px;
+}
+
+p, li, a {
+    font-family: monospace, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+}
+
+.source {
+    font-size: 18px;
+}
+
+.name-block, h2, h3 {
+    text-align: center;
+}
